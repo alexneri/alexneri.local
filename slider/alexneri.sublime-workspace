@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 28802,
+				"buffer_size": 28811,
 				"line_ending": "Windows"
 			}
 		},
@@ -110,15 +110,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 28802,
+						"buffer_size": 28811,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								681,
-								681
+								2554,
+								2554
 							]
 						],
 						"settings":
@@ -126,7 +126,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 720.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

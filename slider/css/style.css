@@ -33,7 +33,7 @@ html{
 body{
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'freight-sans-pro', sans-serif;
 	font-weight: 400;
 	font-size: 1em;
 	color: #000;
@@ -71,7 +71,7 @@ h2 {
 	letter-spacing: 0.10em;
 	font-weight: 300;
 	color: #666;
-	font-family: 'Oswald', sans-serif;	
+	font-family: 'gesta', sans-serif;	
 }
 h3 {
 	font-size: 1em;
@@ -98,7 +98,7 @@ h6 {
 	text-transform: uppercase;
 	letter-spacing: 0.20em;
 	font-weight: 200;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .sections-head{
 	opacity:0.9;
@@ -305,7 +305,7 @@ page preload
 	left:0;
 }
 #jprePercentage {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	color:#ddd;
 	text-shadow: 26px 25px 0px rgba(0, 0, 0, 0.4);
 	text-align:center;
@@ -415,7 +415,7 @@ Navigation
 	position:relative;
 	opacity:0;
 	left:-25%;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	border-bottom: 1px solid #101011;
 	border-top: 1px solid #38393b;
 }
@@ -495,7 +495,7 @@ Intro
 	height:2px;
 }
 .slides-container{
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .slides-container .container{
 	top:25%;
@@ -636,7 +636,7 @@ About
 	overflow:hidden;
 	cursor:pointer;
 	color:#fff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	text-transform:uppercase;
 }
 .serviseslider-holder {
@@ -650,7 +650,7 @@ About
 	font-size:24px;
 	color:#ccc;
 	margin-bottom:16px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .serviseslider h4{
 	margin-top:10px;
@@ -733,7 +733,7 @@ About
 	line-height: 1.17em;
 	padding:6px 10px;
 	cursor:pointer;	
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	position:relative;
 }
 #options li.back{
@@ -798,7 +798,7 @@ About
 	width:100%;
 	position:absolute;
 	top:45%;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 
 /* ====================
@@ -854,7 +854,7 @@ ajax content
   	-webkit-box-shadow: 0px 1px 3px #666666;
   	-moz-box-shadow: 0px 1px 3px #666666;
   	box-shadow: 0px 1px 3px #666666;
-	font-family: 'Oswald', sans-serif;	
+	font-family: 'gesta', sans-serif;	
 }
 #ajax-section {
 	position: relative;
@@ -925,7 +925,7 @@ ajax content
   	-webkit-box-shadow: 0px 1px 3px #666666;
   	-moz-box-shadow: 0px 1px 3px #666666;
   	box-shadow: 0px 1px 3px #666666; 
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 #closeProject a:hover, #ajaxpage   a.lanch-project:hover{
 	opacity:0.8;
@@ -1006,7 +1006,7 @@ subscribe
 	font-size:14px;
 	font-weight:300;
 	letter-spacing:1px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	position:absolute;
 	background:#fff;
 	border:1px solid #ccc;
@@ -1185,12 +1185,12 @@ Prising
 .resume h3{
 	text-align:left;
 	padding:20px 0 20px 10px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .resume p{
 	text-align:left;
 	padding:20px 0 20px 10px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .company-color{
 	color:#F54F36;
@@ -1230,7 +1230,7 @@ Prising
 	color:#fff;
 	min-width:150px;
 	top:-14px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 	line-height:50px;
 	box-shadow: 0px 22px 23px 0px rgba(0,0,0,0.2);
 	border-radius:6px;
@@ -1322,7 +1322,7 @@ Prising
 	min-height:20px;
 	border-radius:6px;
 	box-shadow: 0px 22px 23px 0px rgba(0,0,0,0.2);
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .download-resume:hover span{
 	opacity:0.5
@@ -1473,7 +1473,7 @@ Contact form
 	width:100%;
 	position:relative;
 	border-radius:4px;
-	font-family: 'Oswald', sans-serif;	
+	font-family: 'gesta', sans-serif;	
 }
 .error{
 	background:#fff;
@@ -1482,7 +1482,7 @@ Contact form
 	width:100%;
 	position:relative;		
 	border-radius:4px;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .to-top {
 	position:absolute;
@@ -1947,7 +1947,7 @@ Blog
 	border-radius:6px;
 	line-height:40px;
 	color:#fff;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'gesta', sans-serif;
 }
 .project-details a:hover, .portfolio-nav a:hover{
 	opacity:0.6;
